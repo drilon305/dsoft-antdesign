@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/dsoft-antdesign/static/css/main.06f4a02b.chunk.css",
+    "main.js": "/dsoft-antdesign/static/js/main.c2e856e8.chunk.js",
+    "main.js.map": "/dsoft-antdesign/static/js/main.c2e856e8.chunk.js.map",
+    "runtime-main.js": "/dsoft-antdesign/static/js/runtime-main.6b034e31.js",
+    "runtime-main.js.map": "/dsoft-antdesign/static/js/runtime-main.6b034e31.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/dsoft-antdesign/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.7c23c645.chunk.js": "/dsoft-antdesign/static/js/2.7c23c645.chunk.js",
+    "static/js/2.7c23c645.chunk.js.map": "/dsoft-antdesign/static/js/2.7c23c645.chunk.js.map",
+    "index.html": "/dsoft-antdesign/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "/dsoft-antdesign/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.06f4a02b.chunk.css.map": "/dsoft-antdesign/static/css/main.06f4a02b.chunk.css.map",
+    "static/js/2.7c23c645.chunk.js.LICENSE.txt": "/dsoft-antdesign/static/js/2.7c23c645.chunk.js.LICENSE.txt",
+    "static/media/advanced-option.84c7d069.jpg": "/dsoft-antdesign/static/media/advanced-option.84c7d069.jpg",
+    "static/media/App.css": "/dsoft-antdesign/static/media/bg-works.abd66d06.jpg",
+    "static/media/clean-design.728069da.jpg": "/dsoft-antdesign/static/media/clean-design.728069da.jpg",
+    "static/media/easy-customise.d4fe2213.jpg": "/dsoft-antdesign/static/media/easy-customise.d4fe2213.jpg",
+    "static/media/great-support.13341f4e.jpg": "/dsoft-antdesign/static/media/great-support.13341f4e.jpg",
+    "static/media/modern-design.e2114f5b.jpg": "/dsoft-antdesign/static/media/modern-design.e2114f5b.jpg",
+    "static/media/unlimited-features.a0b8acf7.jpg": "/dsoft-antdesign/static/media/unlimited-features.a0b8acf7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b034e31.js",
+    "static/css/2.786ae0dd.chunk.css",
+    "static/js/2.7c23c645.chunk.js",
+    "static/css/main.06f4a02b.chunk.css",
+    "static/js/main.c2e856e8.chunk.js"
+  ]
+}
